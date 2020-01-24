@@ -1,2 +1,3 @@
 # DTW-for-birdsong-recognition
-This is my summer vacation project in 2019, which uses Dynamic Time Warping for birdsong recognition.
+DTW for birdsong recognition is my project on summer vacation in 2019, and I submitted a paper and did a presentation on TAA 2019 conference.
+
